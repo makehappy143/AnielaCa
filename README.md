@@ -1,4 +1,7 @@
 ### Hi there 👋
+My name is Aniela
+
+All the information you may need is on this website: https://anielaca.github.io/
 
 <!--
 **AnielaCa/AnielaCa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
